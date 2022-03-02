@@ -1,6 +1,6 @@
 # vue2-prerendering-bolierplate
 
-@vue/cli + prerender-spa-plugin(webpack) + vue-router
+@vue/cli 4 (vue 2, webbpack 4) + prerender-spa-plugin + vue-router
 
 ## Project setup
 
